@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD562AA22540C78B001ABC22 /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD562AA12540C78B001ABC22 /* imageViewController.swift */; };
 		FD6CB0C1253D2BCA006EF356 /* greatwall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD6CB0BC253D2BCA006EF356 /* greatwall.jpg */; };
 		FD6CB0C2253D2BCA006EF356 /* stonehenge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD6CB0BD253D2BCA006EF356 /* stonehenge.jpg */; };
 		FD6CB0C3253D2BCA006EF356 /* colosseum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD6CB0BE253D2BCA006EF356 /* colosseum.jpg */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD562AA12540C78B001ABC22 /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 		FD6CB0BC253D2BCA006EF356 /* greatwall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = greatwall.jpg; sourceTree = "<group>"; };
 		FD6CB0BD253D2BCA006EF356 /* stonehenge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stonehenge.jpg; sourceTree = "<group>"; };
 		FD6CB0BE253D2BCA006EF356 /* colosseum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = colosseum.jpg; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				FD9BF834253D160F00A085D0 /* AppDelegate.swift */,
 				FD9BF836253D160F00A085D0 /* SceneDelegate.swift */,
 				FD9BF838253D160F00A085D0 /* ViewController.swift */,
+				FD562AA12540C78B001ABC22 /* imageViewController.swift */,
 				FD9BF83A253D160F00A085D0 /* Main.storyboard */,
 				FD9BF83D253D161000A085D0 /* Assets.xcassets */,
 				FD9BF83F253D161000A085D0 /* LaunchScreen.storyboard */,
@@ -159,6 +162,7 @@
 			files = (
 				FD9BF839253D160F00A085D0 /* ViewController.swift in Sources */,
 				FD9BF835253D160F00A085D0 /* AppDelegate.swift in Sources */,
+				FD562AA22540C78B001ABC22 /* imageViewController.swift in Sources */,
 				FD9BF837253D160F00A085D0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
